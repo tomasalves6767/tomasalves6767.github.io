@@ -4,7 +4,7 @@ This is my home page! My name is Tomas Alves and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/tomasalves6767.github.io.
+My GitHub page is http://github.com/tomasalves6767
 
 ### CPSC 120
 
