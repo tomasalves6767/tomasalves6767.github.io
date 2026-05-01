@@ -16,7 +16,7 @@ My GitHub page is http://github.com/tomasalves6767.github.io.
     create functions and use math to make the game work which I thought was 
     cool.
 
-Lab 7
+* Lab 7
 
     Lab 7 was pretty interesting to me because it forced me to think about 
     time in variables of minutes and hours. Going into this class I 
@@ -27,7 +27,7 @@ Lab 7
     them in functions to answer questions about parking signs on certain 
     dates and times.
 
-Lab 8
+* Lab 8
 
     At the start I wasn't the biggest fan of lab 8 but after I finished and 
     finally watched the entire thing come together I felt very satisfied. 
